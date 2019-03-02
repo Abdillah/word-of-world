@@ -1,4 +1,4 @@
-# Words of World
+# Wordy World
 An online crowdsource service to collect things and perspective propery of things in fantasy generated world.
 Started from https://schema.org categories then we adds up to other categories.
 
